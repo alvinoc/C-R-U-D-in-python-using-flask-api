@@ -10,10 +10,10 @@
 to download its dependencies;
 
 - If the `pip` command is not set as a system path variable, do the following:
-  -Press the windows key and type `Environment Variables`.
-  -In the section System Variables, find the **PATH** environment variable and select it. Click **Edit**.
-  -Click  `New` and paste the python's Scripts folder path:`C:\Users\YourUserNameHere\AppData\Local\Programs\Python\Python38-32\Scripts`
-  -Close all remaining windows by clicking **OK**
+  - Press the windows key and type `Environment Variables`.
+  - In the section System Variables, find the **PATH** environment variable and select it. Click **Edit**.
+  - Click  `New` and paste the python's Scripts folder path:`C:\Users\YourUserNameHere\AppData\Local\Programs\Python\Python38-32\Scripts`
+  - Close all remaining windows by clicking **OK**
 
 - Run the app.py
 
