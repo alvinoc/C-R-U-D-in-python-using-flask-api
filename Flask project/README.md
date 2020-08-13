@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-- You need python on your computer, you can donwload it [HERE] (https://www.python.org/downloads/)
+- You need python on your computer, you can donwload it [HERE](https://www.python.org/downloads/)
 
 - Use any IDE to run the code (pycharm/vscode/sublime text/etc)
 
